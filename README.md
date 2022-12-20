@@ -1,6 +1,8 @@
 # Python template
 
 Pythonでプログラムを作り始める際に必要な処理を記したテンプレートコード集
+ユーザースニペットに登録するとプログラムの開発などが少し捗るようになるようなテンプレートフォーマットです
+![main gif](https://github.com/Domzou-kun/Python_template_formats/blob/master/Python_template/screen_gif/main_1.gif)
 
 ## Description
 
